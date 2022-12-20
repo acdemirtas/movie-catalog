@@ -2,7 +2,7 @@
 
 ## Movie Catalog application
 
-<img width="1042" height="550" alt="movie-ss" src="https://user-images.githubusercontent.com/53643180/77846676-5e6bbd00-71c0-11ea-8b21-03578a3b4379.png">
+![Screenshot](movie-catalog.jpg)
 
 ## Starting services locally
 
